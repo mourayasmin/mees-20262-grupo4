@@ -90,12 +90,12 @@ AND (socrátic* OR andaime* OR scaffolding OR "pergunta* orientadora*")
 
 | Base | Responsável | Observação |
 |---|---|---|
-| Scopus | A | Maior cobertura multidisciplinar |
-| ACM DL | B | Educação em computação (SIGCSE, L@S) |
-| IEEE Xplore | B | Engenharia e educação (FIE, ICALT) |
-| ACL Anthology | C | Trabalhos de NLP (ACL, EMNLP, BEA); busca limitada, registrar adaptação |
-| arXiv | C | Literatura cinzenta |
-| SBC OpenLib e RBIE | D | Estudos em português (SBIE, WIE); string em português |
+| Scopus | Marcos | Maior cobertura multidisciplinar |
+| ACM DL | João Victor | Educação em computação (SIGCSE, L@S) |
+| IEEE Xplore | João Victor | Engenharia e educação (FIE, ICALT) |
+| ACL Anthology | Thiago | Trabalhos de NLP (ACL, EMNLP, BEA); busca limitada, registrar adaptação |
+| arXiv | Thiago | Literatura cinzenta |
+| SBC OpenLib e RBIE | Yasmin | Estudos em português (SBIE, WIE); string em português |
 
 ### Validação com conjunto de controle (responsável: D)
 
